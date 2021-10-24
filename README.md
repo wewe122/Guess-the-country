@@ -4,5 +4,8 @@
 * בחרו יבשת <br> 
 * על המסך תופיע צללית של מדינה מהיבשת  <br> 
 * נסו לנחש איזו מדינה מסתתרת מאחורי הצללית <br> 
-* צברו ניקוד
-<div/>
+* צברו ניקוד <br>
+קישור לרכיבים הרשמיים: <br>
+  https://github.com/wewe122/Guess-the-country/blob/main/formal-elements.md
+  <div/>
+  
