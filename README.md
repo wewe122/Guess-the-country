@@ -8,5 +8,11 @@
 קישור לרכיבים הרשמיים: <br>
   https://github.com/wewe122/Guess-the-country/blob/main/formal-elements.md
   <div/>
-  
+  <br>
+  תמונה להמחשה:
+  <br>
 ![aa](https://user-images.githubusercontent.com/57321080/141873517-9058789c-998f-4a25-9ce5-815c0e1087cf.PNG)
+<br>
+  קישור למשחק:
+  <br>
+  https://roomies2.itch.io/guessthecountry
